@@ -15,7 +15,7 @@ Before AI and Data Science, I am a Geographic Information systems analyst, and m
 ****
 ### Exploratory Data Analysis and Statistical Modeling
 - [Road Accidents Analysis UK 2019](https://github.com/Onikenny/UK_Road_Traffic_Accidents-2019): This project investigates specific crash trends on small scales, including weekly and across days, the relationship between different data features and the rate of crash incidences in the UK in 2019. Predictive models are also developed to forecast the potential time, location and severity of accident and the results are compared with government baselines.
-- [Census Project] (https://github.com/Onikenny/Census-Project): This project aims to generate, analyze and model statistical data to make decisions about infrastructural development and allocate investment funding for a UK town based on the 1991 Census.
+- [Census Project](https://github.com/Onikenny/Census-Project): This project aims to generate, analyze and model statistical data to make decisions about infrastructural development and allocate investment funding for a UK town based on the 1991 Census.
 - [Customer Data Preprocessing](https://github.com/Onikenny/Customer-Data-Preprocessing): This project is the processing of data from a company's customer records for business purposes. The task is to prepare the data for further analysis by including representation changes, filtering, and deriving some new attributes / metrics for them.
 - [Bitcoin price Forecasting with ARIMA time series](https://github.com/Onikenny/ARIMA-Time-Series-Bitcoin-forecasting): This project implements and evaluates an Arima Model for Bitcoin price prediction based on a real data from 2018.
 
