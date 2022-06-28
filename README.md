@@ -27,7 +27,7 @@ Before AI and Data Science, I am a Geographic Information systems analyst, and m
 2. Artificial Neural Networks 
    - [Water Quality Analysis](https://github.com/Onikenny/Water-Quality-Analysis): A model based on an Artificial Neural network is developed to classify drainages in UK Local Authorities to be above the biotixin treshold or not. The data is first manipulated to enable analysis. The project aims to assess various factors that affect the performance of Artificial neural networks using the dataset as a case study.
 3. Recurrent Neural Networks 
-   - [Deep Learning based sentiment analysis](In progress): An LSTM based network is developed to classify the app store reviews of the Canvas Student App to be of Positive or Negative Sentiment. The model is evaluated against alternative settings including another neural network and a Random forest model.
+   - [Deep Learning based sentiment analysis](https://github.com/Onikenny/Deep-Learning-based-sentiment-analysis): An LSTM based network is developed to classify the app store reviews of the Canvas Student App to be of Positive or Negative Sentiment. The model is evaluated against alternative settings including another neural network and a Random forest model.
    
 ##### Supervised ML
 1. Classification
